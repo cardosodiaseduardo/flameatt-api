@@ -1,0 +1,12 @@
+{
+    "development" : {
+        "port": 8000,
+        "db" : {
+            "name" : "flame1",
+            "url" : "flame1-ghnii.mongodb.net",
+            "user" : "cardosodiaseduardo",
+            "password" : "123456campanha"
+        },
+        "information": "caminho para api rodar localmente é 3000. Já para rodar no heroku é process.env.PORT || 3000"
+    }
+}
